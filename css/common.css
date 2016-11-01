@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*===============================================================================
+ *********************************   公共样式       *******************************
+ ===============================================================================*/
+/**
+ * 创建人：卢航
+ * 创建时间：2016-10-19
+ */
+
+/*********************公共样式**************************/
+body,h1,ul,li{margin: 0;padding: 0;}
+a{color: #000;}
+a:hover{color: #ff830a;text-decoration: none;}
+input{outline: none;}
+img{vertical-align: middle;}
+.mt5{margin-top:5px;}.mt10{margin-top:10px;}.mt15{margin-top:15px;}.mt20{margin-top:20px;}.mt30{margin-top:30px;}.mt40{margin-top:40px;}.ml-5{margin-left: -5px;}.ml10{margin-left: 10px;}.ml20{margin-left: 20px;}.ml30{margin-left: 30px;}.ml40{margin-left: 40px;}.p{padding:10px;}.pt10{padding-top: 10px;}.pt20{padding-top: 20px;}.pl10{padding-left: 10px;}.pl20{padding-left: 20px;}.mr5{margin-right: 5px;}.mr10{margin-right: 10px;}
+.fl{float: left;}
+.fr{float: right;}
+.cr{color: #c40300;}
+.clear{clear: both;}
+ul{list-style-type: none;}
+.none{display: none;}
+/****************************头部***************************/
+body{width: 100%;font-family: '微软雅黑';}
